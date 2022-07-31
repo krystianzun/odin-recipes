@@ -1,2 +1,2 @@
 # odin-recipes
-Website with Star Wars recipes
+Recipes from Star Wars Universe
